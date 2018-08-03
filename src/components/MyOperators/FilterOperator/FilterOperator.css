@@ -1,0 +1,17 @@
+.grid-photos{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.photo{
+    margin: 10px;
+}
+
+.photo img{
+    border: solid 1px;
+    width: 400px;
+    height: auto;
+}
+.photo p{
+    margin: 0;
+}

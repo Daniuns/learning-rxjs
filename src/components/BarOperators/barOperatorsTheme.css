@@ -1,0 +1,15 @@
+.component{
+    display: flex;
+    flex-direction: column;
+    border-right: 1px solid;
+    margin-top: 65px;
+    max-width: 35%;
+    min-width: 200px;
+    height: 100%;
+}
+.component a {
+    cursor: pointer;
+    text-align: center;
+    margin: 10px 0;
+    text-decoration: none;
+}
